@@ -1,0 +1,4 @@
+baseURL = 'http://www.valesordev.com/'
+languageCode = 'en-us'
+title = 'Valesor Development'
+theme = 'ananke'
