@@ -15,7 +15,7 @@ export default function Home() {
           Coming Soon
         </h1>
         <p className={styles.description}>
-          Our website is under construction. We will be here soon with our new awesome site, subscribe to be notified.
+          Our website is under construction. We will be here soon with our new awesome site, email us below to be notified.
         </p>
       </main>
 
