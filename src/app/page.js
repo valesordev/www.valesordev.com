@@ -20,7 +20,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <p>Contact us at <a href="mailto:info@valesor.com">info@valesor.com</a></p>
+        <p>Contact us at <a href="mailto:info@valesordev.com">info@valesordev.com</a></p>
       </footer>
     </div>
   );
