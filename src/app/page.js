@@ -12,7 +12,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Coming Soon
+          Coming Soon - October Release
         </h1>
         <p className={styles.description}>
           Our website is under construction. We will be here soon with our new awesome site, email us below to be notified.
